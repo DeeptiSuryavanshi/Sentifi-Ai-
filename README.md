@@ -50,6 +50,3 @@ You need Python 3 installed on your system.
    ```
 
 *Note: The database (`database.db`) is automatically generated with the necessary schema when you first run the app.*
-
-## 📸 Screenshots
-*(Add screenshots of your dashboard, intervention mode, and charts here!)*
